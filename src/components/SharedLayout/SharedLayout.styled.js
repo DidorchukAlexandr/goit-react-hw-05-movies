@@ -34,6 +34,7 @@ export const Link = styled(NavLink)`
 
 export const Nav = styled.nav`
   display: flex;
+  justify-content: center;
   font-size: 30px;
   gap: 30px;
   padding: 10px 0;
